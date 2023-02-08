@@ -4,7 +4,7 @@
 - Extract the files using tar.
 - Move the extracted files to a specific folder.
 - Here's an example of what the bash script could look like:
-```
+```sh
 #!/bin/bash
 #download multiple files from a website regularly and extract them in a specific folder
 # Set the URL of the file to download

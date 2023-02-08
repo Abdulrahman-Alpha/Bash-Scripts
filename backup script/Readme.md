@@ -4,7 +4,7 @@
 - Compress the folder into a tar archive.
 - Transfer the tar archive to a remote server using scp.
 - Here's an example of what the bash script could look like:
-```
+```sh
 #!/bin/bash
 # backup important files on a daily basis. 
 # Set the source files

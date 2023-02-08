@@ -3,7 +3,7 @@
 - Collect data on system resource usage, such as CPU and memory usage, using command-line tools like top or ps.
 - Parse the data and compare it to the set threshold values.
 - If any of the resource usage values exceed the thresholds, send an email notification using a command-line email client like sendmail or msmtp.
-```
+```sh
 #!/bin/bash
 # monitor the usage of system resources and send an email notification if they exceed a certain threshold
 # Set the thresholds
